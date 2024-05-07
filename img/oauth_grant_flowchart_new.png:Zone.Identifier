@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://developer.okta.com/docs/concepts/oauth-openid/
+HostUrl=https://developer.okta.com/img/authorization/oauth_grant_flowchart_new.png
